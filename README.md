@@ -1,2 +1,0 @@
-# django-blog-app
-django
